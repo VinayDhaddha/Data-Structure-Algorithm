@@ -1,3 +1,4 @@
+//  	https://www.interviewbit.com/problems/pair-with-given-difference/
 // Time complexity = O(2n)=O(n)
 //  Space complexity=O(n)=constant
 int Solution::solve(vector<int> &A, int B) {
